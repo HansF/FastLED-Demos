@@ -229,9 +229,6 @@ Instructions for using Paletteknife (you need to use Chrome browser):
 
 http://fastled.io/tools/paletteknife/
 
-Put in your toolbar:
-https://plus.googleapis.com/112916219338292742137/posts/FvLgYPF52Ma
-
 Get Palettes here:
 http://soliton.vm.bytemark.co.uk/pub/cpt-city/index.html
 
